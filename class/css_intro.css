@@ -1,0 +1,10 @@
+h3{
+    font-family: 'Courier New', Courier, monospace;
+    background-color: #a2a2ef;
+    border:3px solid black;
+    border-bottom-left-radius: 8px ;
+    border-top-right-radius: 8px;
+font-size: 20px;
+margin: 20px;
+padding: 30px;
+}

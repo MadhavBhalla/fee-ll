@@ -1,0 +1,30 @@
+*{
+    
+    font-family: 'Courier New', Courier, monospace;
+    background-color: #fff;
+}
+input[type="text"]{
+background-color:rgb(4, 4, 4);
+}
+[type="password"]{
+    background-color: rgb(5, 5, 5);
+}
+::placeholder{
+    color: white;
+}
+p
+{
+color: purple;
+   
+}
+.fruits{
+color: brown;
+font-weight: bolder;
+text-decoration: line-through;}
+
+#heading{
+    color: #3d0b28;
+}
+#fruit{
+    border: 2px black dotted;
+}
