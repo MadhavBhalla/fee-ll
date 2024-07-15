@@ -1,48 +1,48 @@
 .form{
-    width: 255px;
-    margin-left:1100px;
-    margin-top: 150px;
-    background-color: rgb(255, 255, 255);
-    }
-    .image{
-        width: 230px;
-        height: 100PX;
-    }
-    .user{
-    padding: 19px;
-    }
-    .one{
-        margin-left:19px;
-    }
-    .iii{
-        margin-left: 19px;
-    }
-    body{
-        background-image:url(chitkara-university-campus.jpg);
-        background-repeat: no-repeat
-        ;
-        background-size: cover;
-    }
-    #new{
-        height: 35px;
-        margin-left: 19px;
-        width: 168px;
-        color: #ffffff;
-        font-size:medium;
-        font-family: cursive;
-        border: 4px;
-        
-        background-color: red;
-    }
+width: 255px;
+margin-left:1100px;
+margin-top: 150px;
+background-color: rgb(255, 255, 255);
+}
+.image{
+    width: 230px;
+    height: 100PX;
+}
+.user{
+padding: 19px;
+}
+.one{
+    margin-left:19px;
+}
+.iii{
+    margin-left: 19px;
+}
+body{
+    background-image:url(chitkara-university-campus.jpg);
+    background-repeat: no-repeat
+    ;
+    background-size: cover;
+}
+#new{
+    height: 35px;
+    margin-left: 19px;
+    width: 168px;
+    color: #ffffff;
+    font-size:medium;
+    font-family: cursive;
+    border: 4px;
     
-    .para{
-        padding-left: 19px;
-        font-size: 10px;
-    
-    }
-    #policy{
-        padding-left: 19px;
-        font-size: 15px;
-        color: green;
-        text-decoration: underline;
-    }
+    background-color: red;
+}
+
+.para{
+    padding-left: 19px;
+    font-size: 10px;
+
+}
+#policy{
+    padding-left: 19px;
+    font-size: 15px;
+    color: green;
+    text-decoration: underline;
+}
