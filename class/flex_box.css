@@ -1,0 +1,19 @@
+h1{
+    font-size: 30px;
+}
+#container{
+    background-color: aquamarine;
+    height: 400px;
+    width: 400px;
+    border: 2px solid black;
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: row-reverse;
+  
+}
+.items{
+    height: 50px;
+    width: 50px;
+    align-self: last baseline;
+    align-content: center;
+}

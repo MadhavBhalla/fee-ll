@@ -1,0 +1,51 @@
+div{
+    height: 300px;
+    width: 300px;
+    background-color: bisque;
+    border: 2px solid black;
+    /* transition: 2s; */
+    transition-duration: 2s;
+    transition-property: background-color;
+}
+div:hover{
+    background-color: aqua;
+    border-radius: 50%;
+}
+article{
+    margin: 20px auto;
+    border: 2px solid black;
+}
+
+article div{
+    margin: 10px;
+    padding: 20px;
+    background-color: green;
+    border: 2px solid black;
+    height: 50px;
+    width: 50px;
+    
+    transition-duration: 5s;
+
+}
+article:hover div{
+    margin-left: 900px;
+    transition-timing-function:ease-out;
+    transition-duration: 2s;
+    /* background-color: blueviolet; */
+
+}
+div:nth-of-type(1){
+    transition-timing-function: linear;
+}
+div:nth-of-type(2){
+    transition-timing-function: ease;
+}
+div:nth-of-type(3){
+    transition-timing-function:cubic-bezier(0.075, 0.82, 0.165, 1);
+}
+div:nth-of-type(4){
+    transition-timing-function: ease-in-out;
+}
+div:nth-of-type(5){
+    transition-timing-function: ease-out;
+}
